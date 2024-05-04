@@ -1,0 +1,4 @@
+opencv-python~=4.9.0.80
+future~=1.0.0
+pillow~=10.3.0
+cx_Freeze~=6.15.15
